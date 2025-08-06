@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=0:fbf1c7,100:b57614"/>
+<a href="assets/pikachu_hi.gif"><img src="assets/pikachu_hi.gif" align="left" width="56px" height="56px" alt="Pikachu Hi"></a>
 
-<a href="assets/pikachu_hi.gif"><img src="assets/pikachu_hi.gif" align="left" width="64px" height="64px" alt="Pikachu Hi"></a>
-
-# Hello there
+# Hello there!!
 
 </br>
+
+## Languages, Frameworks & Tools
 
 <a href="#" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th92rodr&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&theme=tokyonight" alt="Top Languages" align="right" />
 </a>
@@ -45,7 +45,6 @@
 [![plann.er](https://github-readme-stats.vercel.app/api/pin/?username=th92rodr&repo=plann.er&theme=tokyonight)](https://github.com/th92rodr/plann.er)
 [![dev.stage](https://github-readme-stats.vercel.app/api/pin/?username=th92rodr&repo=dev.stage&theme=tokyonight)](https://github.com/th92rodr/dev.stage)
 [![spacetime](https://github-readme-stats.vercel.app/api/pin/?username=th92rodr&repo=spacetime&theme=tokyonight)](https://github.com/th92rodr/spacetime)
-[![e.sports](https://github-readme-stats.vercel.app/api/pin/?username=th92rodr&repo=e.sports&theme=tokyonight)](https://github.com/th92rodr/e.sports)
 [![proffy](https://github-readme-stats.vercel.app/api/pin/?username=th92rodr&repo=proffy&theme=tokyonight)](https://github.com/th92rodr/proffy)
 [![ecoleta](https://github-readme-stats.vercel.app/api/pin/?username=th92rodr&repo=ecoleta&theme=tokyonight)](https://github.com/th92rodr/ecoleta)
 
@@ -53,8 +52,8 @@
 
 <a href="assets/toedscool.gif"><img src="assets/toedscool.gif" align="right" width="112px" height="112px" alt="Toedscool"></a>
 
+[![digital-curriculum](https://github-readme-stats.vercel.app/api/pin/?username=th92rodr&repo=digital-curriculum&theme=onedark)](https://github.com/th92rodr/digital-curriculum)
 [![twitter-ui-clone](https://github-readme-stats.vercel.app/api/pin/?username=th92rodr&repo=twitter-ui-clone&theme=onedark)](https://github.com/th92rodr/twitter-ui-clone)
 [![tetris](https://github-readme-stats.vercel.app/api/pin/?username=th92rodr&repo=tetris&theme=onedark)](https://github.com/th92rodr/tetris)
-[![digital-curriculum](https://github-readme-stats.vercel.app/api/pin/?username=th92rodr&repo=digital-curriculum&theme=onedark)](https://github.com/th92rodr/digital-curriculum)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:fbf1c7,100:b57614"/>
