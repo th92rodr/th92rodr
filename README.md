@@ -19,7 +19,7 @@ Background spans from embedded software on routers to distributed microservices 
 
 <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=react,nextjs,electron,html,css,sass,pug,tailwind,styledcomponents" alt="Frameworks" /></a>
 
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,gcp,kafka,sqlite,postgres,mysql,mongo,redis" alt="Tools" /></a>
+<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,gcp,kafka,postgres,mysql,mongo,redis" alt="Tools" /></a>
 
 </br>
 
